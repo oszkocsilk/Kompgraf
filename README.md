@@ -1,1 +1,1 @@
-# Kompgraf
+# Visual Studio- build and run
